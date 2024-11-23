@@ -111,6 +111,8 @@ customer_segmentation/
 ├── LICENSE                  # License for the project
 ├── README.md                # Main README
 
+---
+
 ## Blog Post
 For a detailed walkthrough of the project, including step-by-step methodologies, insights, and visualizations, check out my Medium article:
 
