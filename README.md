@@ -5,7 +5,10 @@ Clustering project to segment customers based on price sensitivity and purchasin
 ## Overview
 This project explores customer segmentation using **K-Means Clustering** to analyze **price sensitivity** and **purchasing behavior**. By dividing customers into distinct segments, businesses can craft more effective pricing strategies and improve overall customer satisfaction.
 
-For a detailed walkthrough of this project, check out my accompanying [Medium article](https://medium.com/@cynthiaakiotu/harnessing-price-sensitivity-for-effective-customer-segmentation-with-k-means-clustering-c08ccc2a5e6e) and [YouTube video](https://youtu.be/Rt7ySuJcuA4?si=NoMVjV9ziadJydLh).
+For more details, check out:
+- The full [Medium article](https://medium.com/@cynthiaakiotu/harnessing-price-sensitivity-for-effective-customer-segmentation-with-k-means-clustering-c08ccc2a5e6e).
+- The complete [YouTube video walkthrough](https://youtu.be/Rt7ySuJcuA4?si=NoMVjV9ziadJydLh).
+
 
 ---
 
@@ -107,3 +110,20 @@ customer_segmentation/
 ├── requirements.txt         # Python dependencies
 ├── LICENSE                  # License for the project
 ├── README.md                # Main README
+
+
+## Blog Post
+For a detailed walkthrough of the project, including step-by-step methodologies, insights, and visualizations, check out my Medium article:
+
+[Harnessing Price Sensitivity for Effective Customer Segmentation with K-Means Clustering](https://medium.com/@cynthiaakiotu/harnessing-price-sensitivity-for-effective-customer-segmentation-with-k-means-clustering-c08ccc2a5e6e)
+
+## Video Walkthrough
+Watch the complete walkthrough of the project on YouTube:
+
+[![YouTube Video](https://img.youtube.com/vi/Rt7ySuJcuA4/0.jpg)](https://youtu.be/Rt7ySuJcuA4?si=NoMVjV9ziadJydLh)
+
+##License
+This project is licensed under the MIT License. See the ##LICENSE file for details.
+
+
+
