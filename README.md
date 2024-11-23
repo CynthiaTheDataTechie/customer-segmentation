@@ -111,19 +111,22 @@ customer_segmentation/
 ├── LICENSE                  # License for the project
 ├── README.md                # Main README
 
+---
 
 ## Blog Post
-For a detailed walkthrough of the project, including step-by-step methodologies, insights, and visualizations, check out my Medium article:
+- For a detailed walkthrough of the project, including step-by-step methodologies, insights, and visualizations, check out my Medium article:
 
 [Harnessing Price Sensitivity for Effective Customer Segmentation with K-Means Clustering](https://medium.com/@cynthiaakiotu/harnessing-price-sensitivity-for-effective-customer-segmentation-with-k-means-clustering-c08ccc2a5e6e)
+---
 
 ## Video Walkthrough
-Watch the complete walkthrough of the project on YouTube:
+- Watch the complete walkthrough of the project on YouTube:
 
 [![YouTube Video](https://img.youtube.com/vi/Rt7ySuJcuA4/0.jpg)](https://youtu.be/Rt7ySuJcuA4?si=NoMVjV9ziadJydLh)
+---
 
 ##License
-This project is licensed under the MIT License. See the ##LICENSE file for details.
+- This project is licensed under the MIT License. See the ##LICENSE file for details.
 
 
 
