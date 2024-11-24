@@ -68,9 +68,9 @@ For more details, check out:
 ## Results
 - **Optimal Number of Clusters:** 3
 - **Cluster Insights:**
-  - **Cluster 1:** High-spending, low-frequency customers.
-  - **Cluster 2:** Moderate-spending, medium-frequency customers.
-  - **Cluster 3:** Price-sensitive, high-frequency customers.
+  - **Cluster 0 (Purple):** Price-sensitive and high-frequency customers.
+  - **Cluster 1(Teal):** Balanced Customers (Moderate-spending, medium-frequency customers).
+  - **Cluster 2 (Yellow):** Quality-Oriented Customers(High-spending, low-frequency customers).
 
 ### Key Visualizations
 1. **Customer Segmentation:**
