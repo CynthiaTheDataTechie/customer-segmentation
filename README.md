@@ -92,11 +92,6 @@ For more details, check out:
 pip install -r requirements.txt
 jupyter notebook Harnessing_Price_Sensitivity_for_Effective_Customer_Segmentation_with_K_Means_Clustering.ipynb
 customer_segmentation/
-## Folder Structure
-
-The repository is organized as follows:
-
-```plaintext
 customer_segmentation/
 ├── src/                     # Reusable Python scripts
 │   ├── data_preprocessing.py
@@ -110,22 +105,33 @@ customer_segmentation/
 ├── requirements.txt         # Python dependencies
 ├── LICENSE                  # License for the project
 ├── README.md                # Main README
-##  Blog Post
-This project is detailed in a comprehensive blog post that covers:
 
-Step-by-step methodologies for clustering and segmentation.
-How to use evaluation metrics like the Elbow Method and Silhouette Score.
-Visualizations and insights into customer purchasing behavior.
+---
+
+## Blog Post
+
+This project is detailed in a comprehensive blog post that covers:
+- Step-by-step methodologies for clustering and segmentation.
+- How to use evaluation metrics like the Elbow Method and Silhouette Score.
+- Visualizations and insights into customer purchasing behavior.
+
 Read the full blog post here:
 
-Harnessing Price Sensitivity for Effective Customer Segmentation with K-Means Clustering
+[Harnessing Price Sensitivity for Effective Customer Segmentation with K-Means Clustering](https://medium.com/@cynthiaakiotu/harnessing-price-sensitivity-for-effective-customer-segmentation-with-k-means-clustering-c08ccc2a5e6e)
+
+---
 
 ## Video Walkthrough
+
 Watch the complete walkthrough of the project, including methodologies, results, and visualizations, in the video:
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+[![YouTube Video](https://img.youtube.com/vi/Rt7ySuJcuA4&t=1256s/0.jpg)](https://youtu.be/Rt7ySuJcuA4?si=NoMVjV9ziadJydLh)
 
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 
 
