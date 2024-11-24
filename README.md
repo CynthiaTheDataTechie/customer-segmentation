@@ -111,21 +111,28 @@ customer_segmentation/
 ├── LICENSE                  # License for the project
 ├── README.md                # Main README
 
-
 ## Blog Post
-For a detailed walkthrough of the project, including step-by-step methodologies, insights, and visualizations, check out my Medium article:
+
+This project is detailed in a comprehensive blog post that covers:
+- Step-by-step methodologies for clustering and segmentation.
+- How to use evaluation metrics like the Elbow Method and Silhouette Score.
+- Visualizations and insights into customer purchasing behavior.
+
+Read the full blog post here:
 
 [Harnessing Price Sensitivity for Effective Customer Segmentation with K-Means Clustering](https://medium.com/@cynthiaakiotu/harnessing-price-sensitivity-for-effective-customer-segmentation-with-k-means-clustering-c08ccc2a5e6e)
 
----
-
 ## Video Walkthrough
-Watch the complete walkthrough of the project on YouTube:
+
+Watch the complete walkthrough of the project, including methodologies, results, and visualizations, in the video:
 
 [![YouTube Video](https://img.youtube.com/vi/Rt7ySuJcuA4/0.jpg)](https://youtu.be/Rt7ySuJcuA4?si=NoMVjV9ziadJydLh)
 
----
-
 ## License
+
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+
+
+
 
