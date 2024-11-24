@@ -110,9 +110,7 @@ customer_segmentation/
 ├── requirements.txt         # Python dependencies
 ├── LICENSE                  # License for the project
 ├── README.md                # Main README
-
-
-Blog Post
+##  Blog Post
 This project is detailed in a comprehensive blog post that covers:
 
 Step-by-step methodologies for clustering and segmentation.
@@ -122,13 +120,14 @@ Read the full blog post here:
 
 Harnessing Price Sensitivity for Effective Customer Segmentation with K-Means Clustering
 
-Video Walkthrough
+## Video Walkthrough
 Watch the complete walkthrough of the project, including methodologies, results, and visualizations, in the video:
 
-
-
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
 
 
 
