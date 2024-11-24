@@ -91,7 +91,7 @@ For more details, check out:
    cd customer_segmentation
 pip install -r requirements.txt
 jupyter notebook Harnessing_Price_Sensitivity_for_Effective_Customer_Segmentation_with_K_Means_Clustering.ipynb
-customer_segmentation/
+## Folder Structure
 customer_segmentation/
 ├── src/                     # Reusable Python scripts
 │   ├── data_preprocessing.py
