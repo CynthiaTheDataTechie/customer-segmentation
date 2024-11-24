@@ -38,7 +38,7 @@ For more details, check out:
 ---
 
 ## Dataset
-- **Source:** Proprietary data (or specify the source if publicly available).
+- **Source:** Proprietary data.
 - **Key Features:**
   - `UnitPrice`: Price per unit of a product.
   - `TotalSales`: Total monetary value of sales per customer.
