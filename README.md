@@ -92,6 +92,7 @@ For more details, check out:
 pip install -r requirements.txt
 jupyter notebook Harnessing_Price_Sensitivity_for_Effective_Customer_Segmentation_with_K_Means_Clustering.ipynb
 ## Folder Structure
+
 customer_segmentation/
 ├── src/                     # Reusable Python scripts
 │   ├── data_preprocessing.py
@@ -105,6 +106,7 @@ customer_segmentation/
 ├── requirements.txt         # Python dependencies
 ├── LICENSE                  # License for the project
 ├── README.md                # Main README
+
 
 ---
 
